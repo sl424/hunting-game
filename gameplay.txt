@@ -1,0 +1,20 @@
+
+In this game, the player try to gather necessary food or material
+in order to survive in the wild. 
+
+Use the keys below to navigate. You get 20 moves to complete
+the tasks so use it with care. If you attack an animal, it may
+attack you as well and you can die of injury.
+
+1. Check the lanscape for resouces and animal.
+2. Gather the item in the lanscape but animal may attack you
+3. Attack the animal in the wild
+
+e. Go east	w. Go west	n. Go north	s. Go south
+
+8. Check the items to acquires. The items may vary each game.
+9. Check your bag and see what items you currently have
+10. Discard the last item if necessary to make room
+
+x. Exit the game
+

@@ -1,0 +1,7 @@
+water
+Bird
+Fish
+grass
+Snake
+mushroom
+firewood
