@@ -1,4 +1,4 @@
-[docker] http://52.36.73.75:9000/ "docker instance"
+[docker]: http://52.36.73.75:9000/ "docker instance"
 
 # hunting-game
 A simple survival game where the person try to survive in the virtual
