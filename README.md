@@ -1,3 +1,5 @@
+[docker] http://52.36.73.75:9000/ "docker instance"
+
 # hunting-game
 A simple survival game where the person try to survive in the virtual
 wilderness.  The plot of the game started simple where the person gathers
@@ -8,7 +10,8 @@ more fun with risk and challenges.
 ![map](./map.png "map")
 
 ## Start Game
-You try the game here http://52.36.73.75:9000/
+You try the game at [docker]
+
 ![foraging](./foraging.png "foraging")
 
 
