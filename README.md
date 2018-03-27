@@ -8,6 +8,7 @@ more fun with risk and challenges.
 ![map](./map.png "map")
 
 ## Start Game
+You try the game here http://52.36.73.75:9000/
 ![foraging](./foraging.png "foraging")
 
 
